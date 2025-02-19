@@ -48,15 +48,18 @@
      - Empathy Map
      - Customer Journey Map
  - Define
-   - Problem Statement
+	  - Problem Statement
 - Ideate
 - Prototype
 - Test and Iterate
+	  - 
 - Interaction Design
+	- Human-Computer Interaction
+	- Cognitive Psychology
 - Visual Design
-  - Basics & Principles
-  - Gestalt Principles
-  - Visual
+	- Basics & Principles
+	- Gestalt Principles
+	- Visual Hierarchy
 - Jobs-to-be-Done
 - User Story
 - UX Benchmarking
