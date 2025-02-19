@@ -40,7 +40,26 @@
    - Research Repository
 
 #### User Experience
-1. Content Strate
+1. **Content Strategy**
+2. **UX Storytelling**
+3. **Design Thinking**
+   - Discover
+     - Personas
+     - Empathy Map
+     - Customer Journey Map
+ - Define
+   - Problem Statement
+- Ideate
+- Prototype
+- Test and Iterate
+- Interaction Design
+- Visual Design
+  - Basics & Principles
+  - Gestalt Principles
+  - Visual
+- Jobs-to-be-Done
+- User Story
+- UX Benchmarking
 #### User Interface
 #### Communication
 
