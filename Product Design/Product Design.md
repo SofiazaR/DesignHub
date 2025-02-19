@@ -1,6 +1,6 @@
 Заметки построены на основе [карты](https://product-design-roadmap.com/)
 
-#### Product Thinking
+#### [[Product Thinking]]
 1. **Pre-Launch**
    - Product Vision
    - Product Strategy
