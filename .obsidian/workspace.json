@@ -26,14 +26,14 @@
             "id": "420e55e155f809ab",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "README.md",
-                "bFile": "README.md",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: README"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
