@@ -23,4 +23,9 @@
 1. **Discover (Primary Research)**
 2. **Types**
 3. **Explore and Experiment**
-4. Planing and
+4. **Planing and Analysis**
+
+#### User Experience
+#### User Interface
+#### Communication
+

@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +182,8 @@
   },
   "active": "420e55e155f809ab",
   "lastOpenFiles": [
-    "Магистратура ИТМО 2024/Ответы на вопросы/История развития визуального дизайна..md",
     "Product Design/Product Design.md",
+    "Магистратура ИТМО 2024/Ответы на вопросы/История развития визуального дизайна..md",
     "Product Design/User Interface",
     "Product Design/User Experience",
     "Product Design",
