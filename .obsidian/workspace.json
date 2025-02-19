@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Магистратура ИТМО 2024/СПИСОК ВОПРОСОВ.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "СПИСОК ВОПРОСОВ"
+              "title": "README"
             }
           }
         ]
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Магистратура ИТМО 2024/СПИСОК ВОПРОСОВ.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for СПИСОК ВОПРОСОВ"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Магистратура ИТМО 2024/СПИСОК ВОПРОСОВ.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from СПИСОК ВОПРОСОВ"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Магистратура ИТМО 2024/СПИСОК ВОПРОСОВ.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of СПИСОК ВОПРОСОВ"
+              "title": "Outline of README"
             }
           }
         ]
@@ -192,8 +192,8 @@
   },
   "active": "660f56cc802e546c",
   "lastOpenFiles": [
-    "Магистратура ИТМО 2024/Ответы на вопросы/Теоретические и эмпирические методы научного исследования. Отличия и примеры применения..md",
     "Магистратура ИТМО 2024/СПИСОК ВОПРОСОВ.md",
+    "Магистратура ИТМО 2024/Ответы на вопросы/Теоретические и эмпирические методы научного исследования. Отличия и примеры применения..md",
     "Магистратура ИТМО 2024/Ответы на вопросы/Ощущение, его характеристики. Закон Вебера-Фехнера..md",
     "Магистратура ИТМО 2024/Ответы на вопросы/Теория восприятия в гештальтпсихологии. Законы организации в перцептуальных формах..md",
     "Магистратура ИТМО 2024/Design Books/Брингхерст Р. Основы стиля в типографике. М. Издатель Дмитрий Аронов, 2018 — 480 с..pdf",
