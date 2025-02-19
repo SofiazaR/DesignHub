@@ -43,20 +43,27 @@
 1. **Content Strategy**
 2. **UX Storytelling**
 3. **Design Thinking**
-   - Discover
-     - Personas
-     - Empathy Map
-     - Customer Journey Map
- - Define
-	  - Problem Statement
-- Ideate
-- Prototype
-- Test and Iterate
-	  - 
-- Interaction Design
+	- Discover
+	     - Personas
+	     - Empathy Map
+	     - Customer Journey Map
+	 - Define
+		  - Problem Statement
+	- Ideate
+		- Brainstorming
+		- Information Architecture
+		- User Flow
+		- Mind Map
+	- Prototype
+		- Scetching
+		- Wireframing
+		- Prototyping
+	- Test and Iterate
+		- Usability Test
+4. Interaction Design
 	- Human-Computer Interaction
 	- Cognitive Psychology
-- Visual Design
+5. Visual Design
 	- Basics & Principles
 	- Gestalt Principles
 	- Visual Hierarchy
