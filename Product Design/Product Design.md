@@ -47,7 +47,7 @@
 	     - Personas
 	     - Empathy Map
 	     - Customer Journey Map
-	 - Define
+	- Define
 		  - Problem Statement
 	- Ideate
 		- Brainstorming
@@ -67,9 +67,12 @@
 	- Basics & Principles
 	- Gestalt Principles
 	- Visual Hierarchy
-- Jobs-to-be-Done
-- User Story
-- UX Benchmarking
+6. Jobs-to-be-Done
+7. User Story
+8. UX Benchmarking
 #### User Interface
+1. Design Handoff
+2. Design Systems
+3. 
 #### Communication
 
