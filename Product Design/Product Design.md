@@ -8,10 +8,10 @@
    - [[Product-Market Fit]]
    - [[Product Roadmap]]
    - [[Product Pitch]]
-2. **Launch**
-   - MVP
-   - Product Launch
-   - Press Release
+2. **[[Launch]]**
+   - [[MVP]]
+   - [[Product Launch]]
+   - [[Press Release]]
 3. **Post-Launch**
    - Product Usage Analytics
    - Customer Retention

@@ -8,11 +8,11 @@
    - [[Product Roadmap]]
    - [[Product Pitch]]
 2. **[[Launch]]**
-   - MVP
-   - Product Launch
-   - Press Release
-3. **Post-Launch**
-   - Product Usage Analytics
+   - [[MVP]]
+   - [[Product Launch]]
+   - [[Press Release]]
+3. **[[Post-Launch]]**
+   - [[Product Usage Analytics]]
    - Customer Retention
    - Product Pivot
 4. **Success Metrics**
