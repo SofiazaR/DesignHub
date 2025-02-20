@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Design/Product Design.md",
+                "file": "Press Release.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Product Design"
+              "title": "Press Release"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "52b6940f4978ba0c",
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product Design/Product Design.md",
+                "file": "Press Release.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Product Design"
+              "title": "Outgoing links from Press Release"
             }
           },
           {
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product Design/Product Design.md",
+                "file": "Press Release.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Product Design"
+              "title": "Outline of Press Release"
             }
           },
           {
@@ -181,19 +180,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "420e55e155f809ab",
+  "active": "c3f159e7ef5e5a33",
   "lastOpenFiles": [
-    "Product Design/Product Thinking/Value Proposition.md",
-    "Product Design/Product Design.md",
-    "Product Design/Product Thinking/Pre-Launch.md",
-    "Product Design/Product Thinking/Product Strategy.md",
-    "Product Design/Product Thinking/Product Vision.md",
-    "Product Design/Product Thinking",
-    "Product Design/Product Thinking/Product Roadmap.md",
-    "Product RoadmapProduct Pitch.md",
-    "Product Design/Product Thinking/Product-Market Fit.md",
+    "Product Design/Product Thinking/Launch/Launch.md",
+    "Press Release.md",
+    "Product Launch.md",
+    "MVP.md",
     "Product Design/Product Thinking/Product Thinking.md",
-    "Product Design/Product Thinking/Product Pitch.md",
+    "Product Design/Product Thinking/Success Metrics",
+    "Product Design/Product Thinking/Post-Launch",
+    "Product Design/Product Thinking/Launch",
+    "Product Design/Product Thinking/Pre-Launch/Pre-Launch.md",
+    "Product Design/Product Thinking/Pre-Launch/Product Pitch.md",
+    "Product Design/Product Thinking/Pre-Launch/Product Vision.md",
+    "Product Design/Product Thinking/Pre-Launch/Product Strategy.md",
+    "Product Design/Product Design.md",
+    "Product Design/Product Thinking/Pre-Launch",
+    "Product Design/Product Thinking/Pre-Launch/Value Proposition.md",
+    "Product Design/Product Thinking",
+    "Product Design/Product Thinking/Pre-Launch/Product Roadmap.md",
+    "Product RoadmapProduct Pitch.md",
+    "Product Design/Product Thinking/Pre-Launch/Product-Market Fit.md",
     "README.md",
     "2025-02-20.md",
     "Untitled.canvas",
@@ -210,14 +217,7 @@
     "Магистратура ИТМО 2024/Ответы на вопросы/Виртуальная и дополненная реальность. Примеры технологических устройств и областей применения виртуальной и дополненной реальности..md",
     "Магистратура ИТМО 2024/Ответы на вопросы/Мультимедиа. История развития мультимедиа-технологий. Использование мультимедиа в различных сферах человеческой деятельности..md",
     "Магистратура ИТМО 2024/Ответы на вопросы/Развитие культурной среды. Культура в информационном обществе..md",
-    "Магистратура ИТМО 2024/Ответы на вопросы/Пользовательские компьютерные интерфейсы. Критерии качества пользовательских интерфейсов. Отличие пользовательских интерфейсов от программных и аппаратных..md",
-    "Магистратура ИТМО 2024/Ответы на вопросы/Методологии программирования. История развития..md",
-    "Магистратура ИТМО 2024/Ответы на вопросы/Компиляция и интерпретация программного кода. Достоинства и недостатки. Тестирование и отладка программного кода..md",
     "Магистратура ИТМО 2024/Design Books/Брингхерст Р. Основы стиля в типографике. М. Издатель Дмитрий Аронов, 2018 — 480 с..pdf",
-    "Магистратура ИТМО 2024",
-    "Магистратура ИТМО 2024/Design Books/Феличи, Джеймс. Типографика шрифт, верстка, дизайн. БХВ-Петербург, СПб, 2004.pdf",
-    "Магистратура ИТМО 2024/Design Books/Технологии разработки 3D-моделей.pdf",
-    "Магистратура ИТМО 2024/Design Books/Основы теории дизайна. Учебник для вузов (Розенсон Инна) (Z-Library).pdf",
-    "Магистратура ИТМО 2024/Design Books/Маклюэн Г. M. Галактика Гутенберга. Сотворение человека печатной культуры. — Перевод с английского и примечания А. Юдин. — М., 2003..pdf"
+    "Магистратура ИТМО 2024"
   ]
 }

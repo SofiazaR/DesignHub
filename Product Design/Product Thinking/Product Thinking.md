@@ -7,7 +7,7 @@
    - [[Product-Market Fit]]
    - [[Product Roadmap]]
    - [[Product Pitch]]
-2. **Launch**
+2. **[[Launch]]**
    - MVP
    - Product Launch
    - Press Release

@@ -118,8 +118,12 @@
      - Case Studies
 2. Management
    - Project Planning
-     Define OKRs
-   - 
+     - Define OKRs
+     - Design Questions
    - Product Teams
+     - Team Structure
+     - Collaboration
    - Methodologies
+     - Agile UX
+     - Lean UX
 
