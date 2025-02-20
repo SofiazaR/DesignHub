@@ -1,13 +1,13 @@
 Заметки построены на основе [карты](https://product-design-roadmap.com/)
 
 #### [[Product Thinking]]
-1. **Pre-Launch**
-   - Product Vision
-   - Product Strategy
-   - Value Proposition
-   - Product-Market Fit
-   - Product Roadmap
-   - Product Pitch
+1. **[[Pre-Launch]]**
+   - [[Product Vision]]
+   - [[Product Strategy]]
+   - [[Value Proposition]]
+   - [[Product-Market Fit]]
+   - [[Product Roadmap]]
+   - [[Product Pitch]]
 2. **Launch**
    - MVP
    - Product Launch
@@ -48,7 +48,7 @@
 	     - Empathy Map
 	     - Customer Journey Map
 	- Define
-		  - Problem Statement
+	     - Problem Statement
 	- Ideate
 		- Brainstorming
 		- Information Architecture
