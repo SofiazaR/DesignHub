@@ -93,7 +93,12 @@
    - Usability Principles
    - Usability Issues
 5. Accessibility
+   - Accessible Design
+   - Inclusive Design
+   - Tools & Checklist
 6. Mobile Design
+   - Mobile App Design
+   - 
 7. Web Design
 #### Communication
 
