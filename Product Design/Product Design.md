@@ -107,6 +107,19 @@
 1. Soft Skills
    - Collaborating with Stakeholders
      - Analysis & Alignment
-   - Presentation Skills 
+   - Presentation Skills
+     - Design Presentation
+     - Collecting Feedback
+   - Interview Skills
+     - Interview Guide
+     - Interview Questions
+   - Design Portfolio
+     - Best Practices
+     - Case Studies
 2. Management
+   - Project Planning
+     Define OKRs
+   - 
+   - Product Teams
+   - Methodologies
 
