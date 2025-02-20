@@ -60,19 +60,30 @@
 		- Prototyping
 	- Test and Iterate
 		- Usability Test
-4. Interaction Design
+4. **Interaction Design**
 	- Human-Computer Interaction
 	- Cognitive Psychology
-5. Visual Design
+5. **Visual Design**
 	- Basics & Principles
 	- Gestalt Principles
 	- Visual Hierarchy
-6. Jobs-to-be-Done
-7. User Story
-8. UX Benchmarking
+6. **Jobs-to-be-Done**
+7. **User Story**
+8. **UX Benchmarking**
 #### User Interface
-1. Design Handoff
-2. Design Systems
-3. 
+1. **Design Handoff**
+2. **Design Systems**
+   - Atomic Design
+   - Fundamentals
+     - Color Palette
+     - Typograp
+   - Component Library
+   - Design Guidelines
+   - Interactions
+3. Design Tools
+4. Usability
+5. Accessibility
+6. Mobile Design
+7. Web Design
 #### Communication
 
