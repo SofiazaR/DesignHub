@@ -13,11 +13,11 @@
    - [[Press Release]]
 3. **[[Post-Launch]]**
    - [[Product Usage Analytics]]
-   - Customer Retention
-   - Product Pivot
-4. **Success Metrics**
-   - Business Metrics
-   - Design Metrics
+   - [[Customer Retention]]
+   - [[Product Pivot]]
+4. **[[Success Metrics]]**
+   - [[Business Metrics]]
+   - [[Design Metrics]]
 ---
 Продуктовое мышление — это подход к разработке продуктов, при котором основной акцент делается на создании ценности для пользователей и бизнеса. Этот подход предполагает глубокое понимание проблем и потребностей целевой аудитории, а также разработку решений, которые эффективно решают эти проблемы.
 

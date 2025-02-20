@@ -12,13 +12,13 @@
    - [[MVP]]
    - [[Product Launch]]
    - [[Press Release]]
-3. **Post-Launch**
-   - Product Usage Analytics
-   - Customer Retention
-   - Product Pivot
-4. **Success Metrics**
-   - Business Metrics
-   - Design Metrics
+3. **[[Post-Launch]]**
+   - [[Product Usage Analytics]]
+   - [[Customer Retention]]
+   - [[Product Pivot]]
+4. **[[Success Metrics]]**
+   - [[Business Metrics]]
+   - [[Design Metrics]]
 #### Design Research
 1. **Discover (Primary Research)**
    - Interviews
