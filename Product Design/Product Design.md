@@ -19,7 +19,7 @@
 4. **[[Success Metrics]]**
    - [[Business Metrics]]
    - [[Design Metrics]]
-#### Design Research
+#### [[Design Research]]
 1. **Discover (Primary Research)**
    - Interviews
    - Surveys
@@ -88,23 +88,23 @@
    - Interactions
      - UI Animation
      - Micro-interactions
-3. Design Tools
-4. Usability
+3. **Design Tools**
+4. **Usability**
    - Usability Principles
    - Usability Issues
-5. Accessibility
+5. **Accessibility**
    - Accessible Design
    - Inclusive Design
    - Tools & Checklist
-6. Mobile Design
+6. **Mobile Design**
    - Mobile App Design
    - IOS & Android
    - Mobile UI Patterns
-7. Web Design
+7. **Web Design**
    - HTML & CSS
    - Responsive Layouts
 #### Communication
-1. Soft Skills
+1. **Soft Skills**
    - Collaborating with Stakeholders
      - Analysis & Alignment
    - Presentation Skills
@@ -116,7 +116,7 @@
    - Design Portfolio
      - Best Practices
      - Case Studies
-2. Management
+2. **Management**
    - Project Planning
      - Define OKRs
      - Design Questions
