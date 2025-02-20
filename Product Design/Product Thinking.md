@@ -1,10 +1,6 @@
----
-aliases: 
-cssclasses: 
-tags:
----
 
-1. **Pre-Launch**
+---
+1. **[[Pre-Launch]]**
    - Product Vision
    - Product Strategy
    - Value Proposition
