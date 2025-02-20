@@ -98,7 +98,15 @@
    - Tools & Checklist
 6. Mobile Design
    - Mobile App Design
-   - 
+   - IOS & Android
+   - Mobile UI Patterns
 7. Web Design
+   - HTML & CSS
+   - Responsive Layouts
 #### Communication
+1. Soft Skills
+   - Collaborating with Stakeholders
+     - Analysis & Alignment
+   - Presentation Skills 
+2. Management
 
