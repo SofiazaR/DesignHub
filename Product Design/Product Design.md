@@ -76,12 +76,22 @@
    - Atomic Design
    - Fundamentals
      - Color Palette
-     - Typograp
+     - Typography
+     - Grids & Spacings
+     - Iconography
    - Component Library
+     - Components
+     - UI Patterns
    - Design Guidelines
+     - Design Principles
+     - Documentation
    - Interactions
+     - UI Animation
+     - Micro-interactions
 3. Design Tools
 4. Usability
+   - Usability Principles
+   - Usability Issues
 5. Accessibility
 6. Mobile Design
 7. Web Design
