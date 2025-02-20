@@ -4,6 +4,7 @@
 - [[Product Strategy]]
 - [[ Value Proposition]]
 - [[Product-Market Fit]]
-- [[Product RoadmapProduct Pitch]]
+- [[Product Roadmap]
+- [[Product Pitch]]
 ---
-Product Vision
+### Product Vision
