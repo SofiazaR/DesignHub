@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Thinking.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Product Thinking"
+              "title": "README"
             }
           }
         ]
@@ -166,10 +166,10 @@
   },
   "active": "8024cd6cead91afd",
   "lastOpenFiles": [
+    "Product Thinking.md",
     "Product Design/Product Design.md",
     "Магистратура ИТМО 2024/СПИСОК ВОПРОСОВ.md",
     "README.md",
-    "Product Thinking.md",
     "Магистратура ИТМО 2024/Ответы на вопросы/Измерения. Шкалы измерений. Погрешность измерений. Дискретность. Непрерывные и дискретные величины..md",
     "Магистратура ИТМО 2024/Ответы на вопросы/Бихевиоризм. Основные механизмы формирования условного рефлекса..md",
     "2025-02-20.md",
