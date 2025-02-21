@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Design/Product Thinking/Pre-Launch/Product Vision.md",
+                "file": "Product Design/Product Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Product Vision"
+              "title": "Product Design"
             }
           }
         ]
@@ -179,8 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3f159e7ef5e5a33",
+  "active": "420e55e155f809ab",
   "lastOpenFiles": [
+    "Product Design/Design Research/Design Research.md",
+    "Product Design/Product Thinking/Pre-Launch/Product Vision.md",
     "New Notes",
     "Attach",
     "Draw",
@@ -191,7 +193,6 @@
     "Product Design/Product Thinking/Pre-Launch/Value Proposition.md",
     "Product Design/Product Thinking/Product Thinking.md",
     "Product Design/Product Design.md",
-    "Product Design/Design Research/Design Research.md",
     "Product Design/Communication",
     "Product Design/Design Research",
     "Product Design/Product Thinking/Success Metrics/Design Metrics.md",
@@ -209,9 +210,7 @@
     "Product Design/Product Thinking/Post-Launch",
     "Product Design/Product Thinking/Launch",
     "Product Design/Product Thinking/Pre-Launch/Product Pitch.md",
-    "Product Design/Product Thinking/Pre-Launch/Product Vision.md",
     "Product Design/Product Thinking/Pre-Launch",
-    "Product Design/Product Thinking",
     "Product RoadmapProduct Pitch.md",
     "Product Design/Product Thinking/Pre-Launch/Product-Market Fit.md",
     "README.md",
