@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/JS.md",
+                "file": "Technologies/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JS"
+              "title": "Untitled"
             }
           }
         ]
@@ -166,8 +166,11 @@
   },
   "active": "8024cd6cead91afd",
   "lastOpenFiles": [
-    "New Notes/().md",
+    "Technologies/NFT.md",
+    "Technologies/Untitled.md",
     "Programming/JS.md",
+    "Technologies",
+    "New Notes/().md",
     "Courses/Финтех. Продуктовый дизайн.md",
     "Product Design/Product Design.md",
     "Product Design/Product Thinking/Pre-Launch/Product Roadmap.md",
@@ -192,7 +195,6 @@
     "/Draw/10 days/Фигуры.md",
     "/Draw/10 days/10 days.md",
     "/Programming",
-    "/New Notes",
     "10 days.md",
     "Свет.md",
     "Attach/IMG_0322.png",
@@ -205,8 +207,6 @@
     "Product Design/Product Thinking/Success Metrics/Success Metrics.md",
     "Product Design/Product Thinking/Post-Launch/Post-Launch.md",
     "Product Design/Product Thinking/Product Thinking.md",
-    "Product Design/Product Thinking/Launch/Launch.md",
-    "Product Design/Product Thinking/Pre-Launch/Pre-Launch.md",
     "Untitled.canvas"
   ]
 }
