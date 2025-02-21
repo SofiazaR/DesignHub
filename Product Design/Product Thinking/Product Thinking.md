@@ -1,27 +1,23 @@
----
-aliases: 
-cssclasses: 
-tags:
----
 
-1. **Pre-Launch**
-   - Product Vision
-   - Product Strategy
-   - Value Proposition
-   - Product-Market Fit
-   - Product Roadmap
-   - Product Pitch
-2. **Launch**
-   - MVP
-   - Product Launch
-   - Press Release
-3. **Post-Launch**
-   - Product Usage Analytics
-   - Customer Retention
-   - Product Pivot
-4. **Success Metrics**
-   - Business Metrics
-   - Design Metrics
+---
+1. **[[Pre-Launch]]**
+   - [[Product Vision]]
+   - [[Product Strategy]]
+   - [[Value Proposition]]
+   - [[Product-Market Fit]]
+   - [[Product Roadmap]]
+   - [[Product Pitch]]
+2. **[[Launch]]**
+   - [[MVP]]
+   - [[Product Launch]]
+   - [[Press Release]]
+3. **[[Post-Launch]]**
+   - [[Product Usage Analytics]]
+   - [[Customer Retention]]
+   - [[Product Pivot]]
+4. **[[Success Metrics]]**
+   - [[Business Metrics]]
+   - [[Design Metrics]]
 ---
 Продуктовое мышление — это подход к разработке продуктов, при котором основной акцент делается на создании ценности для пользователей и бизнеса. Этот подход предполагает глубокое понимание проблем и потребностей целевой аудитории, а также разработку решений, которые эффективно решают эти проблемы.
 
