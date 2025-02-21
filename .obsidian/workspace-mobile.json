@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Design/Product Thinking/Pre-Launch/Product Roadmap.md",
-                "mode": "preview",
+                "file": "Programming/JS.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Product Roadmap"
+              "title": "JS"
             }
           }
         ]
@@ -164,18 +164,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04a9d6c0dc5a84ca",
+  "active": "8024cd6cead91afd",
   "lastOpenFiles": [
     "New Notes/().md",
-    "New Notes",
     "Programming/JS.md",
+    "Courses/Финтех. Продуктовый дизайн.md",
+    "Product Design/Product Design.md",
+    "Product Design/Product Thinking/Pre-Launch/Product Roadmap.md",
+    "Фигуры.md",
+    "New Notes",
     "Programming",
     "Draw/10 days/Фигуры.md",
     "Draw/10 days/10 days.md",
     "Draw/10 days/Свет.md",
     "Draw/10 days",
     "Draw",
-    "Courses/Финтех. Продуктовый дизайн.md",
     "Courses/Как подбирать и использовать контролы.md",
     "Courses",
     "/Programming/JS.md",
@@ -192,14 +195,11 @@
     "/New Notes",
     "10 days.md",
     "Свет.md",
-    "Фигуры.md",
-    "Product Design/Product Thinking/Pre-Launch/Product Roadmap.md",
     "Attach/IMG_0322.png",
     "Attach/IMG_0316.jpeg",
     "Attach/IMG_0317.jpeg",
     "Attach/IMG_0318.jpeg",
     "Attach/IMG_0319.jpeg",
-    "Product Design/Product Design.md",
     "README.md",
     "Product Design/Design Research/Design Research.md",
     "Product Design/Product Thinking/Success Metrics/Success Metrics.md",
