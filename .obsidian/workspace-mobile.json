@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Фигуры.md",
+                "file": "10 days.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Фигуры"
+              "title": "10 days"
             }
           }
         ],
@@ -181,9 +181,14 @@
   },
   "active": "f168e73c73883d6e",
   "lastOpenFiles": [
-    "10 days.md",
     "Фигуры.md",
     "Product Design/Product Thinking/Pre-Launch/Product Roadmap.md",
+    "Attach/IMG_0316.jpeg",
+    "Attach/IMG_0317.jpeg",
+    "Attach/IMG_0318.jpeg",
+    "Attach/IMG_0319.jpeg",
+    "Attach",
+    "10 days.md",
     "Product Design/Product Design.md",
     "README.md",
     "Product Design/Design Research/Design Research.md",
@@ -207,7 +212,6 @@
     "Product Design/Product Thinking/Launch/MVP.md",
     "Product Design/Product Thinking/Launch/Product Launch.md",
     "Product Design/Product Thinking/Success Metrics/Business Metrics.md",
-    "Product Design/Product Thinking/Success Metrics/Design Metrics.md",
     "Product Design/Product Thinking/Launch",
     "Product Design/Product Thinking/Success Metrics",
     "Product Design/Product Thinking/Post-Launch",
@@ -216,7 +220,6 @@
     "/Product Design/Product Thinking/Success Metrics",
     "/Product Design/Product Thinking/Pre-Launch",
     "/Product Design/Product Thinking/Post-Launch",
-    "/Product Design/Product Thinking/Launch",
     "Untitled.canvas"
   ]
 }
