@@ -41,7 +41,7 @@
 
 #### User Experience
 1. **Content Strategy**
-2. **UX Storytelling**
+2. **[[UX Storytelling]]**
 3. **Design Thinking**
 	- Discover
 	     - Personas
