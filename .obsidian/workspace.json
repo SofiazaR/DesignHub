@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Финтех. Frontend-разработка/CSS.md",
+                "file": "Courses/Финтех. Frontend-разработка/HTML & CSS/CSS.md",
                 "mode": "source",
                 "source": false
               },
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "52b6940f4978ba0c",
@@ -195,8 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "420e55e155f809ab",
+  "active": "c3f159e7ef5e5a33",
   "lastOpenFiles": [
+    "Courses/Финтех. Frontend-разработка/HTML & CSS",
+    "Courses/Финтех. Frontend-разработка/HTML & CSS/Как работает CSS.md",
+    "Courses/Финтех. Frontend-разработка/HTML & CSS/CSS.md",
+    "Courses/Финтех. Frontend-разработка/Финтех. Frontend-разработка.md",
     "Attach/Pasted image 20250224203608.png",
     "Attach/Pasted image 20250224203556.png",
     "Attach/Pasted image 20250224203450.png",
@@ -206,12 +209,8 @@
     "Attach/Pasted image 20250224203229.png",
     "Attach/Pasted image 20250224202729.png",
     "Attach/Pasted image 20250224165544.png",
-    "Courses/Финтех. Frontend-разработка/Как работает CSS.md",
-    "Courses/Финтех. Frontend-разработка/CSS.md",
-    "Courses/Финтех. Frontend-разработка/Финтех. Frontend-разработка.md",
-    "Courses/Финтех. Frontend-разработка/HTML.md",
+    "Courses/Финтех. Frontend-разработка/HTML & CSS/HTML.md",
     "Attach/Pasted image 20250224164918.png",
-    "Attach/Pasted image 20250224150400.png",
     "Product Design/User Experience/UX Storytelling.md",
     "Product Design/User Interface/HTML & CSS.md",
     "Courses/Финтех. Frontend-разработка",
