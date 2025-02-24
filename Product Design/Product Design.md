@@ -101,7 +101,7 @@
    - IOS & Android
    - Mobile UI Patterns
 7. **Web Design**
-   - HTML & CSS
+   - [[HTML & CSS]]
    - Responsive Layouts
 #### Communication
 1. **Soft Skills**
