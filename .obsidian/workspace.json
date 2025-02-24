@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +193,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "420e55e155f809ab",
+  "active": "b6758894c0a3fbd4",
   "lastOpenFiles": [
+    "Attach/tfs-msk-frontend-02-html-and-css-2023-285529606-5d85011f-8ac2-4eb9-a760-e7f6763ebbad.pdf",
     "Attach/git-92d40c32-4de8-4830-8c37-2ece602cb630.pdf",
     "Courses/Финтех. Frontend-разработка/HTML & CSS/CSS.md",
     "Attach/Pasted image 20250224210022.png",
@@ -236,7 +236,6 @@
     "Technologies",
     "Attach/fintekh-shkola-lektsiia-2-28-02-23-9d585648-27ef-4b5a-8a49-6d9439ca26bc.pdf",
     "New Notes/().md",
-    "Courses",
     "Draw/10 days/Свет.md",
     "Product Design/Design Research/Design Research.md",
     "Product Design/Product Thinking/Pre-Launch/Product Vision.md",
