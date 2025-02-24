@@ -377,3 +377,59 @@ color: black;
   Задаёт имя формы, которой принадлежит область для вывода.
 - [name](https://webref.ru/html/output/name)
   Задаёт уникальное имя элемента.
+#### `<title>`
+Элемент `<title>` (от англ. _title_ — название, заголовок) устанавливает заголовок документа. Текст заголовка отображается, как правило, на вкладке браузера (рис. 1). Допускается использовать только один `<title>` на документ и размещать его внутри [`<head>`](https://webref.ru/html/head).
+![Вид заголовка в браузере Firefox](https://webref.ru/assets/images/html/tag_title.webp)
+Рис. 1. Вид заголовка в браузере Firefox
+##### Синтаксис
+```
+<head>
+  <title>Заголовок</title>
+</head>
+```
+#### `<video>`
+Элемент `<video>` добавляет, воспроизводит и управляет настройками видеоролика на веб-странице. Путь к файлу задаётся через атрибут [src](https://webref.ru/html/video/src) или вложенный элемент [`<source>`](https://webref.ru/html/source).
+##### Синтаксис
+```
+<video>
+ <source src="<адрес>">
+</video>
+```
+##### Атрибуты
+- [autoplay](https://webref.ru/html/video/autoplay)
+  Видео начинает воспроизводиться автоматически после загрузки страницы.
+- [controls](https://webref.ru/html/video/controls)
+  Добавляет панель управления к видеоролику.
+- [crossorigin](https://webref.ru/html/video/crossorigin)
+  Является частью технологии CORS и применяется при загрузке видео со стороннего сайта для использования в элементе `<canvas>`.
+- [height](https://webref.ru/html/video/height)
+  Задаёт высоту области для воспроизведения видеоролика.
+- [loop](https://webref.ru/html/video/loop)
+- Повторяет воспроизведение видео с начала после его завершения.
+- [muted](https://webref.ru/html/video/muted)
+- Отключает звук при воспроизведении видео.
+- [playsinline](https://webref.ru/html/video/playsinline)
+- Применяется для воспроизведения видео, которое не должно переключаться в полноэкранный режим.
+- [poster](https://webref.ru/html/video/poster)
+- Указывает адрес картинки, которая будет отображаться, пока видео не доступно или не воспроизводится.
+- [preload](https://webref.ru/html/video/preload)
+- Используется для загрузки видео вместе с загрузкой веб-страницы.
+- [src](https://webref.ru/html/video/src)
+- Указывает путь к воспроизводимому видеоролику.
+- [width](https://webref.ru/html/video/width)
+Задаёт ширину области для воспроизведения видеоролика.
+##### Пример
+```
+<!DOCTYPE html>
+<html lang="ru">
+ <head>
+  <meta charset="utf-8">
+  <title>video</title>
+ </head>
+ <body>
+  <video width="480" height="364" controls poster="video/potemkin.webp">
+   <source src="video/potemkin.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+  </video>
+ </body>
+</html>
+```
