@@ -1,3 +1,4 @@
+# HTML теги
 Теги - строительные кирпичи HTML. Они определяют семантическое обозначение их содержимого. [Список тегов.](https://webref.ru/html)
 
 <имя_тега> - тег
@@ -38,3 +39,5 @@
   обозначает неразрывный пробел ( )
 **Справочник:** https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references
 
+### Основные теги
+### `<!DOCTYPE>`
