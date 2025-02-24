@@ -161,66 +161,38 @@
 ##### Атрибуты
 Для этого элемента доступны [универсальные атрибуты](https://webref.ru/html/attr/common) и [события](https://webref.ru/html/attr/event).
 #### `<button>`
-Элемент <button> (от англ. _button_ — кнопка) создаёт на веб-странице кнопки и по своему действию напоминает результат, получаемый с помощью [<input>](https://webref.ru/html/input) (с атрибутом type="button | reset | submit"). В отличие от этого элемента, <button> предлагает расширенные возможности по созданию кнопок. Например, на подобной кнопке можно размещать любые элементы HTML, в том числе изображения. Используя стили можно определить вид кнопки путём изменения шрифта, цвета фона, размеров и других параметров.
-
-## Синтаксис
-
+Элемент `<button>` (от англ. _button_ — кнопка) создаёт на веб-странице кнопки и по своему действию напоминает результат, получаемый с помощью [`<input>`](https://webref.ru/html/input) (с атрибутом type="button | reset | submit"). В отличие от этого элемента, `<button>` предлагает расширенные возможности по созданию кнопок. Например, на подобной кнопке можно размещать любые элементы HTML, в том числе изображения. Используя стили можно определить вид кнопки путём изменения шрифта, цвета фона, размеров и других параметров.
+##### Синтаксис
 ```
 <button>...</button>
 ```
-
-## Атрибуты
-
-[autofocus](https://webref.ru/html/button/autofocus)
-
-Устанавливает, что кнопка получает фокус после загрузки страницы.
-
-[disabled](https://webref.ru/html/button/disabled)
-
-Блокирует доступ и изменение элемента.
-
-[form](https://webref.ru/html/button/form)
-
-Связывает между собой форму и кнопку.
-
-[formaction](https://webref.ru/html/button/formaction)
-
-Задаёт адрес, на который пересылаются данные формы при нажатии на кнопку.
-
-[formenctype](https://webref.ru/html/button/formenctype)
-
-Способ кодирования данных формы.
-
-[formmethod](https://webref.ru/html/button/formmethod)
-
-Указывает метод пересылки данных формы.
-
-[formnovalidate](https://webref.ru/html/button/formnovalidate)
-
-Отменяет проверку формы на корректность.
-
-[formtarget](https://webref.ru/html/button/formtarget)
-
-Открывает результат отправки формы в новом окне или фрейме.
-
-[name](https://webref.ru/html/button/name)
-
-Определяет уникальное имя кнопки.
-
-[popovertarget](https://webref.ru/html/button/popovertarget)
-
-Связывает кнопку со всплывающим окном, позволяя при щелчке по кнопке открывать или закрывать это окно.
-
-[popovertargetaction](https://webref.ru/html/button/popovertargetaction)
-
-Позволяет указать действие, которое следует выполнить со всплывающим окном, при нажатии на кнопку.
-
-[type](https://webref.ru/html/button/type)
-
-Устанавливает тип кнопки: обычная, для отправки данных формы на сервер, для очистки формы.
-
-[value](https://webref.ru/html/button/value)
-
-Значение кнопки, которое будет отправлено на сервер или прочитано с помощью скриптов.
+##### Атрибуты
+- [autofocus](https://webref.ru/html/button/autofocus)
+  Устанавливает, что кнопка получает фокус после загрузки страницы.
+- [disabled](https://webref.ru/html/button/disabled)
+  Блокирует доступ и изменение элемента.
+- [form](https://webref.ru/html/button/form)
+  Связывает между собой форму и кнопку.
+- [formaction](https://webref.ru/html/button/formaction)
+  Задаёт адрес, на который пересылаются данные формы при нажатии на кнопку.
+- [formenctype](https://webref.ru/html/button/formenctype)
+  Способ кодирования данных формы.
+- [formmethod](https://webref.ru/html/button/formmethod)
+  Указывает метод пересылки данных формы.
+- [formnovalidate](https://webref.ru/html/button/formnovalidate)
+  Отменяет проверку формы на корректность.
+- [formtarget](https://webref.ru/html/button/formtarget)
+  Открывает результат отправки формы в новом окне или фрейме.
+- [name](https://webref.ru/html/button/name)
+  Определяет уникальное имя кнопки.
+- [popovertarget](https://webref.ru/html/button/popovertarget)
+  Связывает кнопку со всплывающим окном, позволяя при щелчке по кнопке открывать или закрывать это окно.
+- [popovertargetaction](https://webref.ru/html/button/popovertargetaction)
+  Позволяет указать действие, которое следует выполнить со всплывающим окном, при нажатии на кнопку.
+- [type](https://webref.ru/html/button/type)
+  Устанавливает тип кнопки: обычная, для отправки данных формы на сервер, для очистки формы.
+- [value](https://webref.ru/html/button/value)
+  
+- Значение кнопки, которое будет отправлено на сервер или прочитано с помощью скриптов.
 
 Также для этого тега доступны [универсальные атрибуты](https://webref.ru/html/attr/common) и [события](https://webref.ru/html/attr/event).
