@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Notes/HTML & CSS.md",
+                "file": "Courses/Финтех. Frontend-разработка/HTML теги.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML & CSS"
+              "title": "HTML теги"
             }
           },
           {
@@ -196,10 +196,12 @@
   },
   "active": "420e55e155f809ab",
   "lastOpenFiles": [
+    "Courses/Финтех. Frontend-разработка/Финтех. Frontend-разработка.md",
+    "Courses/Финтех. Frontend-разработка/HTML теги.md",
+    "Product Design/User Experience/UX Storytelling.md",
+    "Product Design/User Interface/HTML & CSS.md",
+    "Courses/Финтех. Frontend-разработка",
     "Product Design/Product Design.md",
-    "New Notes/HTML & CSS.md",
-    "New Notes/HTML теги.md",
-    "Courses/Финтех. Frontend-разработка.md",
     "Attach/tfs-msk-frontend-01-html-and-css-2023-894ae7c7-239e-405e-9c14-82e22170f206 1.pdf",
     "Attach/tfs23s-frontend-vstuplenie-96e43736-9953-45cc-af8c-d7e063921ba5 1.pdf",
     "Attach/tfs-msk-frontend-01-html-and-css-2023-894ae7c7-239e-405e-9c14-82e22170f206.pdf",
@@ -215,7 +217,6 @@
     "Courses/Финтех. Продуктовый дизайн.md",
     "Courses/Как подбирать и использовать контролы.md",
     "Books",
-    "New Notes/UX Storytelling.md",
     "New Notes/Template.md",
     "Programming/JS.md",
     "Technologies",
@@ -228,7 +229,6 @@
     "Courses",
     "Draw/10 days/Свет.md",
     "Programming",
-    "Draw/10 days",
     "Attach/IMG_0318.jpeg",
     "Product Design/Design Research/Design Research.md",
     "Product Design/Product Thinking/Pre-Launch/Product Vision.md",
@@ -236,7 +236,6 @@
     "Product Design/Product Thinking/Pre-Launch/Product Roadmap.md",
     "Product Design/Product Thinking/Pre-Launch/Product Strategy.md",
     "Product Design/Product Thinking/Pre-Launch/Value Proposition.md",
-    "Product Design/Product Thinking/Product Thinking.md",
     "Untitled.canvas"
   ]
 }
