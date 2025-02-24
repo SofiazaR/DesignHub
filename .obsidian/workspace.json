@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Финтех. Frontend-разработка/HTML.md",
+                "file": "Courses/Финтех. Frontend-разработка/CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML"
+              "title": "CSS"
             }
           },
           {
@@ -195,9 +195,10 @@
   },
   "active": "420e55e155f809ab",
   "lastOpenFiles": [
-    "Courses/Финтех. Frontend-разработка/CSS.md",
+    "Attach/Pasted image 20250224164918.png",
     "Courses/Финтех. Frontend-разработка/Финтех. Frontend-разработка.md",
     "Courses/Финтех. Frontend-разработка/HTML.md",
+    "Courses/Финтех. Frontend-разработка/CSS.md",
     "Attach/Pasted image 20250224150400.png",
     "Product Design/User Experience/UX Storytelling.md",
     "Product Design/User Interface/HTML & CSS.md",
@@ -236,7 +237,6 @@
     "Product Design/Product Thinking/Pre-Launch/Pre-Launch.md",
     "Product Design/Product Thinking/Pre-Launch/Product Roadmap.md",
     "Product Design/Product Thinking/Pre-Launch/Product Strategy.md",
-    "Product Design/Product Thinking/Pre-Launch/Value Proposition.md",
     "Untitled.canvas"
   ]
 }
