@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Frontend roadmap.md",
+                "file": "Courses/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frontend roadmap"
+              "title": "Untitled"
             }
           },
           {
@@ -195,8 +195,9 @@
   },
   "active": "420e55e155f809ab",
   "lastOpenFiles": [
-    "Courses/Финтех. Frontend-разработка/HTML & CSS/Как работает CSS.md",
     "Frontend/Frontend roadmap.md",
+    "Courses/Untitled.md",
+    "Courses/Финтех. Frontend-разработка/HTML & CSS/Как работает CSS.md",
     "Frontend",
     "Courses/Финтех. Frontend-разработка/HTML & CSS/CSS.md",
     "Courses/Финтех. Frontend-разработка/HTML & CSS/HTML.md",
@@ -240,7 +241,6 @@
     "Product Design/Design Research/Design Research.md",
     "Product Design/Product Thinking/Pre-Launch/Product Vision.md",
     "Product Design/Product Thinking/Pre-Launch/Pre-Launch.md",
-    "Product Design/Product Thinking/Pre-Launch/Product Roadmap.md",
     "Untitled.canvas"
   ]
 }
