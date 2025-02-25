@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Финтех. Frontend-разработка/Финтех. Frontend-разработка.md",
+                "file": "Frontend/Frontend roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Финтех. Frontend-разработка"
+              "title": "Frontend roadmap"
             }
           },
           {
@@ -193,15 +193,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6758894c0a3fbd4",
+  "active": "420e55e155f809ab",
   "lastOpenFiles": [
+    "Courses/Финтех. Frontend-разработка/HTML & CSS/Как работает CSS.md",
+    "Frontend/Frontend roadmap.md",
+    "Frontend",
+    "Courses/Финтех. Frontend-разработка/HTML & CSS/CSS.md",
+    "Courses/Финтех. Frontend-разработка/HTML & CSS/HTML.md",
+    "Courses/Финтех. Frontend-разработка/Финтех. Frontend-разработка.md",
     "Attach/tfs-msk-frontend-02-html-and-css-2023-285529606-5d85011f-8ac2-4eb9-a760-e7f6763ebbad.pdf",
     "Attach/git-92d40c32-4de8-4830-8c37-2ece602cb630.pdf",
-    "Courses/Финтех. Frontend-разработка/HTML & CSS/CSS.md",
     "Attach/Pasted image 20250224210022.png",
     "Courses/Финтех. Frontend-разработка/HTML & CSS",
-    "Courses/Финтех. Frontend-разработка/HTML & CSS/Как работает CSS.md",
-    "Courses/Финтех. Frontend-разработка/Финтех. Frontend-разработка.md",
     "Attach/Pasted image 20250224203608.png",
     "Attach/Pasted image 20250224203556.png",
     "Attach/Pasted image 20250224203450.png",
@@ -211,7 +214,6 @@
     "Attach/Pasted image 20250224203229.png",
     "Attach/Pasted image 20250224202729.png",
     "Attach/Pasted image 20250224165544.png",
-    "Courses/Финтех. Frontend-разработка/HTML & CSS/HTML.md",
     "Product Design/User Experience/UX Storytelling.md",
     "Product Design/User Interface/HTML & CSS.md",
     "Courses/Финтех. Frontend-разработка",
@@ -233,8 +235,6 @@
     "Books",
     "New Notes/Template.md",
     "Programming/JS.md",
-    "Technologies",
-    "Attach/fintekh-shkola-lektsiia-2-28-02-23-9d585648-27ef-4b5a-8a49-6d9439ca26bc.pdf",
     "New Notes/().md",
     "Draw/10 days/Свет.md",
     "Product Design/Design Research/Design Research.md",
